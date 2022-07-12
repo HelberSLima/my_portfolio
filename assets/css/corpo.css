@@ -1,0 +1,10 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: #313131;
+    font-family: var(--font);
+    position: relative;
+    max-width: 100vw;
+}
